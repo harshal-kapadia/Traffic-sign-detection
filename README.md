@@ -7,9 +7,6 @@ Recognise the traffic signs from the images into 43 different category.
 #### Model:
  - 3 Convolutional block with 32, 64 and 128 filters of 3x3 kernel size
  - Activation function used ReLu
- - Optimiser used Stochastic Gradient Descent (SGD)
- - Loss is Categorical Crossentropy
-
 
 #### Dataset:
  - Link: [GTRSB](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset#Downloads)
